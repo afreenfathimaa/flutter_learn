@@ -25,9 +25,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/diamond.png
-    - images/download.png
-    - images/hi.jpg
+    - images/
   fonts:
     - family: Pacifico
       fonts:
